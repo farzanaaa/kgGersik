@@ -1,2 +1,1 @@
-# kgGersik
-Website for Kampung Gersik 
+# KG_GER
