@@ -26,6 +26,27 @@ body {
   background-size: cover;
   
 }
+.descp{
+	margin-left: 10px;
+}
+.social2{
+	height: 300px;
+	weidth: 300px;
+}
+.social4{
+	height: 500px;
+	
+}
+.social5{
+	height: 350px;
+	weidth:500px;
+}
+.social7{
+	height: 350px;
+	weidth:500px;
+	padding: 10px;
+	margin: 10px;
+}
 
 /* Increase the font size of the heading */
 .Header h1 {
